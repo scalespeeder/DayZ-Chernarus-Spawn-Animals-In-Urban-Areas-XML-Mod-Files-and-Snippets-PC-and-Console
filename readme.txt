@@ -39,4 +39,7 @@ OR
 Use the supplied  "basic urban list of graze locations" file to add the coordinates to the territory files of your choice, save and restart your server.
 (PLEASE NOTE when adding to the wolves territory you will need to change "Graze" to "HuntingGround"
 
+PLEASE NOTE: To increase the chance of animal urban spawns you could also decrease the  <saferadius>200</saferadius> of
+each relevant animal event to  <saferadius>100</saferadius>.
+
 Thanks, Rob.
