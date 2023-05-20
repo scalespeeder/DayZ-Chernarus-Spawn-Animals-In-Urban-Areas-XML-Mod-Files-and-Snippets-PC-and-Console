@@ -1,0 +1,192 @@
+<!-----Basic Graze List of Chernarus City, Town & Village Locations Based On Water Pump Coordinates--------->
+
+
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="593.107300" z="5287.158203" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1161.724243" z="10004.197266" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1201.911377" z="8765.289063" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1460.349487" z="11951.206055" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1672.937744" z="3842.969727" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1914.502808" z="2231.609131" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1991.328125" z="7307.824219" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2215.072510" z="11098.593750" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2550.454834" z="6369.231934" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2715.814453" z="5292.602539" r="60"/>
+
+
+<!-------------->
+
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2752.342285" z="9984.967773" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2995.204590" z="7824.268066" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3347.140625" z="3910.228027" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3435.799805" z="13052.623047" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3654.875000" z="2464.537598" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3738.781738" z="8957.837891" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4371.355469" z="4657.902344" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4402.512207" z="2483.396484" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4483.117676" z="6425.156250" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4798.157227" z="6826.440430" r="60"/>
+
+
+<!-------------->
+
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4900.287598" z="5678.148438" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4904.215820" z="13050.697266" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4982.011230" z="15134.538086" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5407.039551" z="8566.799805" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5816.191895" z="13572.711914" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5863.036621" z="4815.913086" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5972.830566" z="10311.665039" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6039.189453" z="3257.370850" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6095.246582" z="7738.651855" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6297.689453" z="12666.705078" r="60"/>
+
+
+<!-------------->
+
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6515.262207" z="2307.472656" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6541.528320" z="6090.249023" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6643.516113" z="14375.707031" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7080.772949" z="4308.812500" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7152.916992" z="7702.881348" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7215.645020" z="6993.958008" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7535.542480" z="5138.312012" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7576.624023" z="13467.450195" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8080.811035" z="10916.660156" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8065.274414" z="12637.166992" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8140.445313" z="3226.464844" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8191.777832" z="11580.652344" r="60"/>
+
+
+<!-------------->
+
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8429.030273" z="6675.179688" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8469.916016" z="13964.693359" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8595.643555" z="11930.129883" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="9164.527344" z="3895.712891" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="9384.627930" z="14551.081055" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="9464.361328" z="8823.937500" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="9478.249023" z="13803.360352" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="9661.379883" z="6561.959961" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="9800.286133" z="2216.389160" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="9958.327148" z="10386.066406" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="10127.481445" z="5484.531250" r="60"/>
+
+
+<!-------------->
+
+
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="10424.083008" z="2215.927490" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="10426.203125" z="9826.751953" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="10685.321289" z="8065.479492" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="10763.415039" z="14364.730469" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="11001.086914" z="12417.129883" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="11193.870117" z="6573.469238" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="11266.900391" z="5484.009766" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="11544.778320" z="14798.818359" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="11902.600586" z="9149.667969" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="12051.456055" z="3593.756592" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="12090.803711" z="7217.735840" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="12102.982422" z="13718.819336" r="60"/>
+
+
+<!-------------->
+
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="12255.232422" z="10626.826172" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="12315.523438" z="10938.425781" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="12442.627930" z="9562.986328" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="12719.926758" z="14577.733398" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="12876.538086" z="4437.374512" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="12888.756836" z="5649.119629" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="12956.283203" z="8026.325684" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="12920.091797" z="10145.371094" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="13360.716797" z="12866.163086" r="60"/>
+
+
+<!-------------->
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="13391.895508" z="6276.471191" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="13462.843750" z="2940.917969" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="13512.010742" z="14039.103516" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="13800.401367" z="13297.750977" r="60"/>
+
+<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="14074.567383" z="15031.740234" r="60"/>
+
+
+
